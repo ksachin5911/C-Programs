@@ -1,0 +1,2 @@
+sachin,  78000
+shreya,  80500
